@@ -1,0 +1,19 @@
+﻿  SDL_SOLARSYSTEM.cpp
+C:\Users\martou\OneDrive\Desktop\UNI\SOLAR_SYSTEM_2.0\SOLAR_SYSTEM_2\Shader.h(71,8): warning C4101: 'infoLog': unreferenced local variable
+  (compiling source file 'SDL_SOLARSYSTEM.cpp')
+  
+C:\Users\martou\OneDrive\Desktop\UNI\SOLAR_SYSTEM_2.0\SOLAR_SYSTEM_2\Shader.h(70,7): warning C4101: 'success': unreferenced local variable
+  (compiling source file 'SDL_SOLARSYSTEM.cpp')
+  
+C:\Users\martou\OneDrive\Desktop\UNI\SOLAR_SYSTEM_2.0\SOLAR_SYSTEM_2\GroupNode.h(28,23): warning C4267: 'return': conversion from 'size_t' to 'unsigned int', possible loss of data
+  (compiling source file 'SDL_SOLARSYSTEM.cpp')
+  
+C:\Users\martou\OneDrive\Desktop\UNI\SOLAR_SYSTEM_2.0\SOLAR_SYSTEM_2\mesh.h(89,44): warning C4267: 'argument': conversion from 'size_t' to 'GLsizei', possible loss of data
+  (compiling source file 'SDL_SOLARSYSTEM.cpp')
+  
+C:\Users\martou\OneDrive\Desktop\UNI\SOLAR_SYSTEM_2.0\SOLAR_SYSTEM_2\SDL_SOLARSYSTEM.cpp(231,17): warning C4244: '=': conversion from 'const Sint32' to 'float', possible loss of data
+C:\Users\martou\OneDrive\Desktop\UNI\SOLAR_SYSTEM_2.0\SOLAR_SYSTEM_2\SDL_SOLARSYSTEM.cpp(232,17): warning C4244: '=': conversion from 'const Sint32' to 'float', possible loss of data
+C:\Users\martou\OneDrive\Desktop\UNI\SOLAR_SYSTEM_2.0\SOLAR_SYSTEM_2\SDL_SOLARSYSTEM.cpp(238,17): warning C4244: '=': conversion from 'const Sint32' to 'float', possible loss of data
+C:\Users\martou\OneDrive\Desktop\UNI\SOLAR_SYSTEM_2.0\SOLAR_SYSTEM_2\SDL_SOLARSYSTEM.cpp(239,17): warning C4244: '=': conversion from 'const Sint32' to 'float', possible loss of data
+C:\Users\martou\OneDrive\Desktop\UNI\SOLAR_SYSTEM_2.0\SOLAR_SYSTEM_2\SDL_SOLARSYSTEM.cpp(245,33): warning C4244: 'argument': conversion from 'const Sint32' to 'float', possible loss of data
+  SOLAR_SYSTEM_2.vcxproj -> C:\Users\martou\OneDrive\Desktop\UNI\SOLAR_SYSTEM_2.0\x64\Debug\SOLAR_SYSTEM_2.exe
